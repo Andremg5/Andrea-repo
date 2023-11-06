@@ -1,2 +1,2 @@
 # Andrea-repo
-Task new repository
+Update del README 
